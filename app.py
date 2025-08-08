@@ -351,7 +351,7 @@ elif selected == "Client Voice Analysis":
 elif selected == "U.S. RIA Conquest Plan":
     st.header("🌎 Strategic Blueprint for U.S. RIA Dominance")
     st.markdown("""
-    This section unveils a precision-engineered go-to-market (GTM) strategy to conquer the U.S. RIA market, targeting <b>Scaling-Constrained Practitioners (1-5 advisors)</b> and <b>Efficiency-Seeking Mid-Sized RIAs (6-50 advisors)</b>. multiply.ai's solutions address their critical pain points for rapid market penetration.
+    This section outlines a focused go-to-market (GTM) plan to help Multiply grow quickly in the U.S. RIA market. It targets two key groups: <b>small advisory firms with 1–5 advisors who struggle to scale</b> and <b>mid-sized RIAs with 6–50 advisors who want to work more efficiently</b>. Multiply’s platform solves their biggest problems, making it easier to win and grow in these segments.
     """, unsafe_allow_html=True)
 
     # 40% Time Loss Visualization
