@@ -39,7 +39,7 @@ st.markdown("""
 # Title and Introduction
 st.title("🌌 multiply.ai Strategic Command Center")
 st.markdown("""
-Welcome to the <b>multiply.ai Strategic Command Center</b>, a state-of-the-art dashboard designed for our CEO to drive market leadership in the UK wealth management and U.S. RIA sectors. By leveraging hiring trends, client feedback, and strategic market insights, we highlight how multiply.ai can transform operational inefficiencies into competitive advantages for firms like <b>Ascot Lloyd, Quilter, Succession Group, True Potential</b>, and U.S. RIAs.
+Welcome to the <b>Multiply Strategic Command Center</b> — a powerful dashboard built to help Multiply lead the UK wealth management and U.S. RIA markets. By tracking hiring trends, client feedback, and key market insights, it shows how Multiply can turn everyday inefficiencies into a competitive edge for firms like <b>Ascot Lloyd, Quilter, Succession Group, True Potential</b>, and independent advisors in the U.S.
 """, unsafe_allow_html=True)
 
 # Sidebar Navigation
